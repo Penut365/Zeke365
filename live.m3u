@@ -152,16 +152,12 @@ http://p4.giffy.be:8080/live/demo/demo/20980.ts
 #EXTINF:-1,NICK TOONS HD US
 http://p4.giffy.be:8080/live/demo/demo/20951.ts
 #EXTINF:0, Cops (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/XiKF2Kf.jpg stream=https://videoserver2.org/live/bjxTQA_rLVnL6jVpNEdYnQ/1517780037/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8 cat=RandomAirTime 24/7
-
+https://videoserver2.org/live/bjxTQA_rLVnL6jVpNEdYnQ/1517780037/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8
 #EXTINF:0, Discovery Channel cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/Y8HHddy.jpg stream=https://videoserver2.org/live/LAWBBjcxtZ5iAXLSozvuzg/1517781220/075d66993151c178df1ed9840202d983.m3u8
-
+https://videoserver2.org/live/LAWBBjcxtZ5iAXLSozvuzg/1517781220/075d66993151c178df1ed9840202d983.m3u8
 #EXTINF:0, Home Improvement (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/183934/p183934_b_v8_ad.jpg stream=https://videoserver1.org/live/X3YDO47pz53jEiXDbchnKQ/1517781839/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
-
+https://videoserver1.org/live/X3YDO47pz53jEiXDbchnKQ/1517781839/b5ee54bba2ae28a03173618f93df9835.m3u8 cat=RandomAirTime 24/7
 #EXTINF:0, Seinfeld (RandomAirTime 24/7) (US) (English)
-logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=https://videoserver1.org/live/t42JwSzCqaJ1qBYjs84kCg/1517780111/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
- 
-#EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=https://videoserver2.org/live/YhOo1rxeDyzlA4oJtlV2Pg/1517781141/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
+https://videoserver1.org/live/t42JwSzCqaJ1qBYjs84kCg/1517780111/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
+ #EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
+https://videoserver2.org/live/YhOo1rxeDyzlA4oJtlV2Pg/1517781141/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
