@@ -1,1 +1,154 @@
+#EXTM3U
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on 
+
+#EXTINF:0,Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:0, ATNMusic
+http://us170.jagobd.com:1937/c2VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8?nimblesessionid=98020&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDE4IDU6NTQ6NDQgQU0maGFzaF92YWx1ZT1Ua3pWRWdXMnFURzNJQmRaVGtYcWhBPT0mdmFsaWRtaW51dGVzPTYw
+
+#EXTINF:0, CNNUSA
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+
+#EXTINF:-1,US | NBC HD EAST
+http://p4.giffy.be:8080/live/demo/demo/20985.ts
+#EXTINF:-1,US | ABC EAST
+http://p4.giffy.be:8080/live/demo/demo/20986.ts
+#EXTINF:-1,US | FOX EAST.
+http://p4.giffy.be:8080/live/demo/demo/28642.ts
+#EXTINF:-1,US | NBC WEST
+http://p4.giffy.be:8080/live/demo/demo/26563.ts
+#EXTINF:-1,US | FOX HD WEST
+http://p4.giffy.be:8080/live/demo/demo/26562.ts
+#EXTINF:-1,US | ABC HD WEST
+http://p4.giffy.be:8080/live/demo/demo/26561.ts
+#EXTINF:-1,US | CBS WEST
+http://p4.giffy.be:8080/live/demo/demo/26560.ts
+#EXTINF:-1,US | CNBC WORLD
+http://p4.giffy.be:8080/live/demo/demo/20711.ts
+#EXTINF:-1,US | FOX NEWS
+http://p4.giffy.be:8080/live/demo/demo/20706.ts
+#EXTINF:-1,US | A&E HD
+http://p4.giffy.be:8080/live/demo/demo/20911.ts
+#EXTINF:-1,US | BRAVO HD
+http://p4.giffy.be:8080/live/demo/demo/20902.ts
+#EXTINF:-1,US | CARTOON NETWORK HD
+http://p4.giffy.be:8080/live/demo/demo/20988.ts
+#EXTINF:-1,US | CRIMINAL INVESTIGATION  HD
+http://p4.giffy.be:8080/live/demo/demo/20973.ts
+#EXTINF:-1,US | FOX BUSINESS NETWORK HD
+http://p4.giffy.be:8080/live/demo/demo/20983.ts
+#EXTINF:-1,US | MTV LIVE HD
+http://p4.giffy.be:8080/live/demo/demo/20954.ts
+#EXTINF:-1,US | SUNDANCE HD
+http://p4.giffy.be:8080/live/demo/demo/20956.ts
+#EXTINF:-1,US | TRU TV HD
+http://p4.giffy.be:8080/live/demo/demo/20952.ts
+#EXTINF:-1,US  | WE TV HD
+http://p4.giffy.be:8080/live/demo/demo/20955.ts
+#EXTINF:-1,US | C-SPAN 1
+http://p4.giffy.be:8080/live/demo/demo/21170.ts
+#EXTINF:-1,US | C-SPAN 2
+http://p4.giffy.be:8080/live/demo/demo/21171.ts
+#EXTINF:-1,US | C-SPAN 3
+http://p4.giffy.be:8080/live/demo/demo/21172.ts
+#EXTINF:-1,US | TNT HD
+http://p4.giffy.be:8080/live/demo/demo/21459.ts
+#EXTINF:-1,US | ID HD
+http://p4.giffy.be:8080/live/demo/demo/21997.ts
+#EXTINF:-1,US | GSN HD
+http://p4.giffy.be:8080/live/demo/demo/23305.ts
+#EXTINF:-1,US | AL JAZEERA ENGLISH
+http://p4.giffy.be:8080/live/demo/demo/18803.ts
+#EXTINF:-1,US | CINEMAX HD
+http://p4.giffy.be:8080/live/demo/demo/20976.ts
+#EXTINF:-1,US | CINEMAX MOREMAX HD
+http://p4.giffy.be:8080/live/demo/demo/20975.ts
+#EXTINF:-1,US | CINEMAX THRILLERMAX HD
+http://p4.giffy.be:8080/live/demo/demo/20974.ts
+#EXTINF:-1,US | EL RAY HD
+http://p4.giffy.be:8080/live/demo/demo/20970.ts
+#EXTINF:-1,US | EPIX 2 HD
+http://p4.giffy.be:8080/live/demo/demo/20968.ts
+#EXTINF:-1,US | HBO COMEDY HD
+http://p4.giffy.be:8080/live/demo/demo/20964.ts
+#EXTINF:-1,US | HBO SIGNATURE HD
+http://p4.giffy.be:8080/live/demo/demo/20962.ts
+#EXTINF:-1,US | HBO ZONE HD
+http://p4.giffy.be:8080/live/demo/demo/20961.ts
+#EXTINF:-1,US | SHOWTIME FAMILY ZONE
+http://p4.giffy.be:8080/live/demo/demo/20958.ts
+#EXTINF:-1,US | EPIX HD
+http://p4.giffy.be:8080/live/demo/demo/20969.ts
+#EXTINF:-1,US | HGTV HD
+http://p4.giffy.be:8080/live/demo/demo/25232.ts
+#EXTINF:-1,US | MSNBC HD
+http://p4.giffy.be:8080/live/demo/demo/26075.ts
+#EXTINF:-1,US | ANIMAL PLANET HD
+http://p4.giffy.be:8080/live/demo/demo/20989.ts
+#EXTINF:-1,US | BBC AMERICA HD
+http://p4.giffy.be:8080/live/demo/demo/20977.ts
+#EXTINF:-1,US | BET HD
+http://p4.giffy.be:8080/live/demo/demo/20651.ts
+#EXTINF:-1,US | COMEDY CENTRAL HD
+http://p4.giffy.be:8080/live/demo/demo/20904.ts
+#EXTINF:-1,US | CW11
+http://p4.giffy.be:8080/live/demo/demo/20984.ts
+#EXTINF:-1,US | DESTINATION AMERICA HD
+http://p4.giffy.be:8080/live/demo/demo/26546.ts
+#EXTINF:-1,US | DISCOVERY SCIENCE HD
+http://p4.giffy.be:8080/live/demo/demo/20935.ts
+#EXTINF:-1,US | E! HD
+http://p4.giffy.be:8080/live/demo/demo/20704.ts
+#EXTINF:-1,US | FOOD NETWORK HD
+http://p4.giffy.be:8080/live/demo/demo/21142.ts
+#EXTINF:-1,US | HALLMARK HD
+http://p4.giffy.be:8080/live/demo/demo/29987.ts
+#EXTINF:-1,US | HALLMARK MOVIES HD
+http://p4.giffy.be:8080/live/demo/demo/20966.ts
+#EXTINF:-1,US | IFC HD
+http://p4.giffy.be:8080/live/demo/demo/20960.ts
+#EXTINF:-1,US | LIFETIME MOVIES HD
+http://p4.giffy.be:8080/live/demo/demo/20914.ts
+#EXTINF:-1,US | NAT GEO HD
+http://p4.giffy.be:8080/live/demo/demo/20982.ts
+#EXTINF:-1,US | NAT GEO WILD HD
+http://p4.giffy.be:8080/live/demo/demo/20981.ts
+#EXTINF:-1,US | OWN HD
+http://p4.giffy.be:8080/live/demo/demo/20979.ts
+#EXTINF:-1,US | PBS EAST
+http://p4.giffy.be:8080/live/demo/demo/26548.ts
+#EXTINF:-1,US | SPIKE HD
+http://p4.giffy.be:8080/live/demo/demo/20943.ts
+#EXTINF:-1,US | SYFY HD
+http://p4.giffy.be:8080/live/demo/demo/20909.ts
+#EXTINF:-1,US | TBS HD
+http://p4.giffy.be:8080/live/demo/demo/20987.ts
+#EXTINF:-1,US | TLC
+http://p4.giffy.be:8080/live/demo/demo/26543.ts
+#EXTINF:-1,US | TRAVEL HD
+http://p4.giffy.be:8080/live/demo/demo/26545.ts
+#EXTINF:-1,US | USA NETWORK HD
+http://p4.giffy.be:8080/live/demo/demo/20944.ts
+#EXTINF:-1,US | WEATHER HD
+http://p4.giffy.be:8080/live/demo/demo/23193.ts
+#EXTINF:-1,US | STARZ CINEMA HD
+http://p4.giffy.be:8080/live/demo/demo/21460.ts
+#EXTINF:-1,US | CNN  HD
+http://p4.giffy.be:8080/live/demo/demo/29026.ts
+#EXTINF:-1,US | CBSN NEWS
+http://p4.giffy.be:8080/live/demo/demo/27539.ts
+#EXTINF:-1,US | BLOOMBERG
+http://p4.giffy.be:8080/live/demo/demo/27538.ts
+#EXTINF:-1,US | CNBC HD
+http://p4.giffy.be:8080/live/demo/demo/28303.ts
+#EXTINF:-1,DISCOVERY FAMILY HD US
+http://p4.giffy.be:8080/live/demo/demo/20972.ts
+#EXTINF:-1,DISNEY HD US
+http://p4.giffy.be:8080/live/demo/demo/20971.ts
+#EXTINF:-1,NICK JR HD US
+http://p4.giffy.be:8080/live/demo/demo/20980.ts
+#EXTINF:-1,NICK TOONS HD US
+http://p4.giffy.be:8080/live/demo/demo/20951.ts
 
